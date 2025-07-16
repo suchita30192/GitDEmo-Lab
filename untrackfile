@@ -1,0 +1,15 @@
+file1
+file2
+file3
+filex
+filey
+filez
+ctrl+c
+git add .
+git status 
+git commit -m "this is untrackfile how to clean using command"
+ls
+git status 
+git clean -n 
+git clean -f
+ls
