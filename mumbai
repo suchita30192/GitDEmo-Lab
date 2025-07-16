@@ -1,0 +1,8 @@
+ sudo su 
+mkdir singaporegit
+ls
+cd singapore
+git init
+ls -a
+git remote add origin url github
+git pull -u origin master
