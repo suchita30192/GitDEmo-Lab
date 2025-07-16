@@ -11,3 +11,7 @@ git commit -m "this is undo commit wrong/ ignore commit"
 git log git revert <commit id>
 mesage ---please ignore previous commit
 ls cat revertfile git log
+this command is used to undo your commit 
+this command is used to undo a specific commit by creating a
+new commit that reverse the original one 
+without rewriting history.
