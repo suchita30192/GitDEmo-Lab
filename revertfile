@@ -1,0 +1,13 @@
+ls
+git status
+git log
+cat>revertfile
+git add .
+git commit -m "this is reverfile command"
+ls 
+cat >>revertfile this command is used to undo your commit
+git add .
+git commit -m "this is undo commit wrong/ ignore commit"
+git log git revert <commit id>
+mesage ---please ignore previous commit
+ls cat revertfile git log
